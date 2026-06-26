@@ -1,0 +1,1 @@
+# wmi-persistence-removal-protocol
